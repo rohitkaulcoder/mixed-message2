@@ -8,3 +8,4 @@ const generateRandomMessage = () => {
 };
 
 console.log(generateRandomMessage());
+//this is a comment to check the github aspect
